@@ -1,0 +1,9 @@
+@use 'tailwindcss/base';
+@use 'tailwindcss/components';
+@use 'tailwindcss/utilities';
+
+@use './main';
+@use 'template/index' as template;
+@use 'components/index' as customComponents;
+
+
